@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "DRep pioneer"
+      "@value": "Tôi là Sang"
     },
     "dRepName": {
       "@value": "SangDRep"
@@ -59,6 +59,16 @@
     "email": {
       "@value": "nguyenminhsang1508@gmail.com"
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "t.me/IlumNguyen"
+        }
+      }
+    ]
   }
 }
